@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6A1276C7-6BCC-4697-8AF7-CAE59884EEF2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="foodR Status">
+    <Files>
+      <File FileName="foodR Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.foodR.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.60C5D9B3-D338-4236-8718-7B78C9580154" />
+  <MultiItemStartupConfigurations />
+</Properties>
